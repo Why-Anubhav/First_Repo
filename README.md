@@ -1,2 +1,3 @@
 # First_Repo
-My first Repository
+My first Repository <br>
+Just be awesome!
