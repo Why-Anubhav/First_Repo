@@ -1,3 +1,4 @@
 # First_Repo
 My first Repository <br>
-Just be awesome!
+Just be super awesome!
+
